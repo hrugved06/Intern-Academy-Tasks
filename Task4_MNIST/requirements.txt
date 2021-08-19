@@ -1,3 +1,4 @@
+#required packages to be installed in the local enviornment
 pip install joblib
 pip install sklearn
 pip install skimage
